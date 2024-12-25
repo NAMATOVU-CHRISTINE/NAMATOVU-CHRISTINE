@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, data science, and open source contributions.
 - 🌱 I’m currently learning full-stack development with a focus on JavaScript, React, and Python.
 - 💞️ I’m looking to collaborate on exciting projects, hackathons, and open source initiatives.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Namatovu christine)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/NAMATOVU)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a coffee aficionado and love exploring new coffee shops around the city.
 
