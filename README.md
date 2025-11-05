@@ -2,7 +2,7 @@
 
 <!-- 🧭 HEADER / BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋+Hey%2C+I'm+Amanya+Micheal+(Mom)!&fontSize=35&fontAlignY=35&desc=AI%20Engineer%20in%20the%20Making%20%7C%20Mobile%20Dev%20%7C%20Innovator&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋+Hey%2C+I'm+Amanya+Micheal!&fontSize=35&fontAlignY=35&desc=AI%20Engineer%20in%20the%20Making%20%7C%20Mobile%20Dev%20%7C%20Innovator&descAlignY=55&descAlign=50" />
 </p>
 
 ---
