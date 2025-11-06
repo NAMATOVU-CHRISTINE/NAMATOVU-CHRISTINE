@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "title": "Building AI Applications for African Markets",
+      "slug": "building-ai-applications-african-markets",
+      "date": "2025-01-15",
+      "category": "AI/ML",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Flutter Best Practices for Production Apps",
+      "slug": "flutter-best-practices-production",
+      "date": "2025-01-10",
+      "category": "Mobile",
+      "emoji": "📱"
+    },
+    {
+      "title": "Understanding Deep Learning: A Practical Guide",
+      "slug": "understanding-deep-learning-guide",
+      "date": "2025-01-05",
+      "category": "AI/ML",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Tech Innovation in Agriculture: My Journey",
+      "slug": "tech-innovation-agriculture-journey",
+      "date": "2024-12-28",
+      "category": "Innovation",
+      "emoji": "🌾"
+    },
+    {
+      "title": "From Student to AI Engineer: Lessons Learned",
+      "slug": "student-to-ai-engineer-lessons",
+      "date": "2024-12-20",
+      "category": "Career",
+      "emoji": "💡"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.log
+.DS_Store
