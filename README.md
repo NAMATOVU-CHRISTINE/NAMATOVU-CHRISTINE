@@ -30,13 +30,12 @@ class AmanyaMicheal:
         self.role = "AI Engineer & Mobile Dev"
         self.location = "Uganda 🇺🇬"
         self.education = "MUST - Computer Science"
-        self.languages = ["Python", "Java", "Dart", "C", "PHP"]
+        self.languages = ["Python", "Java", "HTML"]
         
     def current_focus(self):
         return [
             "Deep Learning & Neural Networks",
             "Mobile-First AI Applications",
-            "IoT & Edge Computing",
             "African Tech Solutions"
         ]
     
@@ -64,46 +63,37 @@ class AmanyaMicheal:
 
 ---
 
-<!-- 💼 TECH STACK WITH ENHANCED BADGES -->
+<!-- 💼 TECH STACK - SIMPLIFIED -->
 <div align="center">
 
-### ⚡ **TECH ARSENAL**
+### ⚡ **TECH STACK**
 
-#### 🔥 **Core Technologies**
+#### 🔥 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
-#### 🤖 **AI & Machine Learning**
+#### 🤖 **AI & ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 #### 📱 **Mobile & Web**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🗄️ **Databases & Cloud**
+#### 🗄️ **Database & Cloud**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ **Tools & Platforms**
+#### 🛠️ **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -123,61 +113,27 @@ class AmanyaMicheal:
 #### 🌾 **AgroConnect Mobile**
 **Smart Agriculture Solution**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=agroconnect&theme=radical&hide_border=true)](https://github.com/michealamanya)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michealamanya&repo=agroconnect&theme=radical&hide_border=true)](https://github.com/michealamanya/agroconnect)
 
-🎯 Real-time market prices for farmers  
-📱 Built with Flutter & Firebase  
-🤖 AI-powered crop recommendations  
-📊 Data analytics dashboard  
+🎯 Real-time market prices  
+📱 Flutter & Firebase  
+🤖 AI crop recommendations  
 
-**Tech:** `Flutter` `Firebase` `Python` `ML`
+**Tech:** `Flutter` `Firebase` `Python`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🏥 **Smart Hospital System**
-**AI-Enhanced Healthcare Management**
+**AI Healthcare Management**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=hospital-system&theme=radical&hide_border=true)](https://github.com/michelamanya)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michealamanya&repo=hospital-system&theme=radical&hide_border=true)](https://github.com/michealamanya/hospital-system)
 
-⚕️ Patient management & analytics  
-🤖 AI-powered diagnosis support  
-📈 Real-time health monitoring  
-🔐 Secure data encryption  
+⚕️ Patient management  
+🤖 AI diagnosis support  
+📈 Health monitoring  
 
-**Tech:** `Django` `React` `TensorFlow` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 **Mental Health Chatbot**
-**Empathetic AI Companion**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michealamanya&repo=mental-health-bot&theme=radical&hide_border=true)](https://github.com/michealamanya)
-
-💬 Natural language understanding  
-🎭 Emotion detection & support  
-📚 Mental health resources  
-🔒 Privacy-first design  
-
-**Tech:** `Python` `NLP` `TensorFlow` `Flask`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎓 **Student Management Pro**
-**Smart Campus Solution**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=student-management&theme=radical&hide_border=true)](https://github.com/michealamanya)
-
-📊 Grade tracking & analytics  
-📅 Automated scheduling  
-👥 Student-teacher portal  
-📱 Mobile-responsive design  
-
-**Tech:** `Java` `MySQL` `JavaFX` `GitHub Copilot`
+**Tech:** `Django` `TensorFlow` `MySQL`
 
 </td>
 </tr>
