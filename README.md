@@ -123,7 +123,7 @@ class AmanyaMicheal:
 #### 🌾 **AgroConnect Mobile**
 **Smart Agriculture Solution**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=agroconnect&theme=radical&hide_border=true)](https://github.com/AmanyaMicheal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=agroconnect&theme=radical&hide_border=true)](https://github.com/michealamanya)
 
 🎯 Real-time market prices for farmers  
 📱 Built with Flutter & Firebase  
@@ -138,7 +138,7 @@ class AmanyaMicheal:
 #### 🏥 **Smart Hospital System**
 **AI-Enhanced Healthcare Management**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=hospital-system&theme=radical&hide_border=true)](https://github.com/AmanyaMicheal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=hospital-system&theme=radical&hide_border=true)](https://github.com/michelamanya)
 
 ⚕️ Patient management & analytics  
 🤖 AI-powered diagnosis support  
@@ -155,7 +155,7 @@ class AmanyaMicheal:
 #### 🧠 **Mental Health Chatbot**
 **Empathetic AI Companion**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=mental-health-bot&theme=radical&hide_border=true)](https://github.com/AmanyaMicheal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michealamanya&repo=mental-health-bot&theme=radical&hide_border=true)](https://github.com/michealamanya)
 
 💬 Natural language understanding  
 🎭 Emotion detection & support  
@@ -170,7 +170,7 @@ class AmanyaMicheal:
 #### 🎓 **Student Management Pro**
 **Smart Campus Solution**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=student-management&theme=radical&hide_border=true)](https://github.com/AmanyaMicheal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmanyaMicheal&repo=student-management&theme=radical&hide_border=true)](https://github.com/michealamanya)
 
 📊 Grade tracking & analytics  
 📅 Automated scheduling  
@@ -193,13 +193,13 @@ class AmanyaMicheal:
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanyaMicheal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanyaMicheal&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=michealamanya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=michealamanya&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanyaMicheal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanyaMicheal&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michealamanya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=michealamanya&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff" alt="Activity Graph" />
 </p>
 
 ---
@@ -209,7 +209,7 @@ class AmanyaMicheal:
 
 ### 🏆 **ACHIEVEMENTS & MILESTONES**
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmanyaMicheal&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=michealamanya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="Trophies" />
 
 </div>
 
@@ -217,7 +217,7 @@ class AmanyaMicheal:
 
 #### 📈 **Contribution Stats**
 
-![](https://github-contributor-stats.vercel.app/api?username=AmanyaMicheal&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=michealamanya&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
@@ -289,16 +289,16 @@ mindmap
 
 ### 🌐 **LET'S CONNECT!**
 
-<a href="mailto:amanyamicheal@example.com">
+<a href="mailto:amanyamicheal@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/amanya-micheal">
+<a href="https://linkedin.com/in/amanya-micheal-778a9234a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/amanyamicheal">
+<a href="https://x.com/amanyamicheal_a">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://github.com/AmanyaMicheal">
+<a href="https://github.com/michealamanya">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://dev.to/amanyamicheal">
@@ -335,9 +335,9 @@ mindmap
 ### 🐍 **CONTRIBUTION SNAKE**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanyaMicheal/AmanyaMicheal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanyaMicheal/AmanyaMicheal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmanyaMicheal/AmanyaMicheal/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michealamanya/micheaamanya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -349,10 +349,10 @@ mindmap
 
 ### 📈 **PROFILE INSIGHTS**
 
-<img src="https://komarev.com/ghpvc/?username=AmanyaMicheal&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=michealamanya&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 
-![Followers](https://img.shields.io/github/followers/AmanyaMicheal?style=for-the-badge&color=667eea&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/AmanyaMicheal?style=for-the-badge&color=f093fb&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/michealamanya?style=for-the-badge&color=667eea&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/michealamanya?style=for-the-badge&color=f093fb&labelColor=0D1117)
 
 </div>
 
@@ -403,7 +403,7 @@ I'm always excited to collaborate on:
 
 🚀 **AI/ML Projects** | 📱 **Mobile Applications** | 🌍 **Tech for Social Good** | 💡 **Open Source Initiatives**
 
-💌 **DM me on [LinkedIn](https://linkedin.com/in/amanya-micheal) or email at amanyamicheal@example.com**
+💌 **DM me on [LinkedIn](https://www.linkedin.com/in/amanya-micheal-778a9234a) or email at amanyamicheal@example.com**
 
 </div>
 
