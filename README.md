@@ -301,13 +301,6 @@ mindmap
 <a href="https://github.com/michealamanya">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://dev.to/amanyamicheal">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-</a>
-<a href="https://medium.com/@amanyamicheal">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
-
 </div>
 
 ---
@@ -332,12 +325,12 @@ mindmap
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <div align="center">
 
-### 🐍 **CONTRIBUTION SNAKE**
+### 🐍 **CONTRIBUTION ACTIVITY**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michealamanya/micheaamanya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
