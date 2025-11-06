@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=AMANYA%20MICHEAL&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" />
 </div>
 
-<!-- 🎭 DYNAMIC TYPING ANIMATION -->
+<!-- 🎭 DYNAMIC TYPING ANIMATION (FIXED) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=💻+Building+the+Future+with+AI+%26+Code;🚀+Transforming+Ideas+into+Impact;🌍+Innovating+for+Africa's+Tomorrow" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=💻+Building+the+Future+with+AI+%26+Code;🚀+Transforming+Ideas+into+Impact;🌍+Innovating+for+Africa's+Tomorrow" alt="Dynamic Typing" />
 </div>
 
 ---
@@ -322,15 +322,15 @@ mindmap
 
 ---
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
+<!-- 🐍 CONTRIBUTION SNAKE (FIXED) -->
 <div align="center">
 
 ### 🐍 **CONTRIBUTION ACTIVITY**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>

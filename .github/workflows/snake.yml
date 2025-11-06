@@ -4,13 +4,16 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate the snake
         uses: Platane/snk@v3
@@ -27,5 +30,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "⚙️ Generate snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
