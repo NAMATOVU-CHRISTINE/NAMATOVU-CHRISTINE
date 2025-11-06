@@ -283,7 +283,11 @@ mindmap
 
 ### 🐍 **CONTRIBUTION ACTIVITY**
 
-![Snake animation](https://raw.githubusercontent.com/michealamanya/michealamanya/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img alt="github contribution grid snake animation" src="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg?raw=true" />
+</picture>
 
 </div>
 
