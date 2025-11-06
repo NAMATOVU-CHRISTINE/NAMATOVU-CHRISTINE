@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repo content
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate the snake
         uses: Platane/snk@v3
@@ -23,7 +25,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          gif_out_path: dist/github-snake.gif
+
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Verify generated files
+        run: ls -la dist/
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
