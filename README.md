@@ -287,28 +287,14 @@ mindmap
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-| Skill | Progress |
+| Skill | Level |
 |---|---|
-| 🤖 Artificial Intelligence | ![AI](https://progress-bar.dev/85/?title=&width=250&color=0FA90F) |
-| 🔐 Cybersecurity | ![Security](https://progress-bar.dev/88/?title=&width=250&color=0FA90F) |
-| 📊 Data Science | ![DS](https://progress-bar.dev/90/?title=&width=250&color=0FA90F) |
-
-</td>
-<td align="center" width="50%">
-
-| Skill | Progress |
-|---|---|
-| 📱 Mobile Development | ![Mobile](https://progress-bar.dev/85/?title=&width=250&color=ffd700) |
-| 🌐 Web Development | ![Web](https://progress-bar.dev/80/?title=&width=250&color=ffd700) |
-| ☁️ Cloud & DevOps | ![Cloud](https://progress-bar.dev/75/?title=&width=250&color=ffd700) |
-
-</td>
-</tr>
-</table>
+| 🤖 **Artificial Intelligence** | `████████░░` 85% |
+| 🔐 **Cybersecurity** | `█████████░` 88% |
+| 📊 **Data Science** | `█████████░` 90% |
+| 📱 **Mobile Development** | `████████░░` 85% |
+| 🌐 **Web Development** | `████████░░` 80% |
+| ☁️ **Cloud & DevOps** | `███████░░░` 75% |
 
 ---
 
