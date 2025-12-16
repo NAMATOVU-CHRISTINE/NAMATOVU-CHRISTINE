@@ -1,71 +1,130 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,50:ffffff,100:ffd700&height=200&section=header&text=NAMATOVU%20CHRISTINE&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20|%20Security%20Specialist%20|%20Tech%20Enthusiast&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Christine%20Namatovu&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=0F9B0F&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🔐+Securing+the+Digital+World;📊+Unlocking+Insights+with+Data+Science;💻+Building+Secure+Solutions" alt="Dynamic Typing" />
+  <h3>Data Scientist | Security Specialist | Tech Enthusiast</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christine-namatovu-a27480343)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:christinenamatovu972@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NAMATOVU-CHRISTINE)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=NAMATOVU-CHRISTINE&style=flat-square&color=blueviolet)
 </div>
 
-<!-- 📊 CONTRIBUTION STATS -->
+---
+
+### About Me
+
+```javascript
+const christine = {
+    role: "Data Scientist & Security Specialist",
+    location: "Uganda",
+    education: "Computer Science @ MUST",
+    interests: ["AI/ML", "Cybersecurity", "Mobile Development", "IoT"],
+    currentFocus: ["Deep Learning", "TensorFlow", "Edge AI"],
+    motto: "Data drives decisions, Security protects them"
+};
+```
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Data Science & ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Security & Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+### Featured Projects
+
 <div align="center">
 
-### 📊 **MY CODING JOURNEY**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Security Operations** | Network security & data protection solutions | Python, Kali Linux, Cryptography |
+| **Data Analytics** | Predictive analytics & ML models | Python, TensorFlow, Pandas |
+| **Web Applications** | Secure full-stack web solutions | JavaScript, Python, SQL |
+| **Mobile Development** | Cross-platform mobile apps | Flutter, Dart |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=react-dark&hide_border=true&bg_color=0D1117&color=0FA90F&line=ffd700&point=ffffff&area=true&area_color=0FA90F" alt="Contribution Graph" width="95%" />
+[![View Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NAMATOVU-CHRISTINE?tab=repositories)
 
 </div>
 
 ---
 
-<!-- 🎯 MODERN PROFILE CARDS SECTION -->
-<div align="center">
+### Skills & Expertise
 
-## 🌟 **WHO AM I?**
-
-</div>
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👨‍💻 **The Developer**
-
-```python
-class NamatovuChristine:
-    def __init__(self):
-        self.name = "Namatovu Christine"
-        self.role = "Data Scientist & Security Specialist"
-        self.location = "Global 🌍"
-        self.education = "Lifelong Learner"
-        self.languages = ["Python", "R", "SQL", "C++", "Java", "JavaScript"]
-        self.focus = ["Cybersecurity", "Data Analysis", "Machine Learning"]
-        
-    def current_mission(self):
-        return {
-            "Protecting": "Digital Assets",
-            "Analyzing": "Complex Datasets",
-            "Building": "Secure Solutions"
-        }
-    
-    def motto(self):
-        return "Data drives decisions, Security protects them."
-```
+**Core Competencies**
+- Artificial Intelligence & Machine Learning
+- Cybersecurity & Network Defense
+- Data Analysis & Visualization
+- Mobile & Web Development
+- IoT & Embedded Systems
+- Cloud Computing & DevOps
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 **Quick Facts**
-
-| 📊 | Detail |
-|---|---|
-| 🎓 | Computer Science @ MUST |
-| 💼 | AI, Mobile Dev, IoT |
-| 🌱 | Deep Learning, TensorFlow, Edge AI |
-| 💡 | Innovation, Problem-Solving, Tech for Good |
-| 🎵 | Coding, Learning, Building |
-| ☕ | Coffee + Code + Curiosity |
-| 🌍 | Tech Solutions for Africa |
-| ⚡ | I debug with optimism! |
+**Currently Learning**
+- Deep Learning with TensorFlow
+- Advanced Cryptography
+- Edge AI & Model Optimization
+- Secure Coding Practices
+- Big Data Technologies
+- Cloud Security Architecture
 
 </td>
 </tr>
@@ -73,368 +132,34 @@ class NamatovuChristine:
 
 ---
 
-<!-- 💼 TECH STACK - ENHANCED -->
+### Achievements
+
 <div align="center">
-
-## ⚡ **TECH STACK**
-
-### 🔐 **Security & Data Science**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 💻 **Languages & Development**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🛠️ **Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 📊 **Data & Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=NAMATOVU-CHRISTINE&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </div>
 
 ---
 
-<!-- 🚀 FEATURED PROJECTS SECTION -->
-<div align="center">
-
-## 🚀 **FEATURED PROJECTS**
-
-*Innovative solutions built with passion and precision*
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🔐 Security & Operations
-
-<img src="https://img.shields.io/badge/Cybersecurity-0FA90F?style=for-the-badge&logo=security&logoColor=white" />
-
-**Network Security & Data Protection**
-
-🛡️ Secure systems design  
-🔍 Vulnerability assessment  
-🔐 Cryptography implementation  
-🌐 Network defense strategies
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 📊 Data Science Analytics
-
-<img src="https://img.shields.io/badge/Data_Science-ffd700?style=for-the-badge&logo=python&logoColor=black" />
-
-**Insight Generation System**
-
-📈 Predictive Analytics  
-🤖 Machine Learning Models  
-📉 Data Visualization  
-🧮 Statistical Analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🌐 Web Development
-
-<img src="https://img.shields.io/badge/Full_Stack-667eea?style=for-the-badge&logo=code&logoColor=white" />
-
-**Secure Web Applications**
-
-💻 Responsive design  
-🔒 Security-first approach  
-⚡ Performance optimization  
-🎨 Modern UI/UX
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 📱 Mobile Development
-
-<img src="https://img.shields.io/badge/Mobile_Apps-f093fb?style=for-the-badge&logo=flutter&logoColor=white" />
-
-**Cross-Platform Solutions**
-
-📲 Flutter development  
-🎯 User-centric design  
-🔄 Real-time features  
-📊 Data integration
-
-</td>
-</tr>
-</table>
+### Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/NAMATOVU-CHRISTINE?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
-</a>
+I'm always open to collaborating on innovative projects, especially in:
+- AI/ML & Data Science
+- Cybersecurity Solutions
+- Tech for Social Good
+- Open Source Initiatives
 
-</div>
-
----
-
-<!-- 📊 ADVANCED GITHUB STATISTICS -->
-<div align="center">
-
-## 📊 **GITHUB ANALYTICS**
-
-*My contributions and coding journey*
-
-</div>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&icon_color=ffd700&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NAMATOVU-CHRISTINE&theme=radical&hide_border=true&background=0D1117&ring=0FA90F&fire=ffd700&currStreakLabel=0FA90F" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&text_color=c9d1d9&langs_count=10&hide=html,css" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAMATOVU-CHRISTINE&theme=radical&utcOffset=3" alt="Productive Time" />
-</p>
-
----
-
-<!-- 🏆 ACHIEVEMENTS & TROPHIES -->
-<div align="center">
-
-## 🏆 **ACHIEVEMENTS & MILESTONES**
-
-*Celebrating my journey and accomplishments*
-
-<img src="https://github-profile-trophy.vercel.app/?username=NAMATOVU-CHRISTINE&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="Trophies" />
-
-</div>
-
-<div align="center">
-
-### 📈 **Contribution Stats**
-
-<img src="https://github-contributor-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
-
-### 🎯 **GitHub Metrics**
-
-<img src="https://metrics.lecoq.io/NAMATOVU-CHRISTINE?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FKampala" alt="Metrics" />
-
-</div>
-
----
-
-<!-- 🎯 CURRENT FOCUS & ROADMAP -->
-<div align="center">
-
-## 🎯 **CURRENT FOCUS & 2025 ROADMAP**
-
-*My strategic vision for growth and innovation*
-
-</div>
-
-```mermaid
-mindmap
-  root((Christine 2025))
-    Data Science
-      Predictive Analytics
-      Big Data
-      Visualization
-    Security
-      Ethical Hacking
-      Network Defense
-      Cryptography
-    Programming
-      Python Mastery
-      Secure Coding
-      Algorithm Design
-    Growth
-      Open Source
-      Community Building
-      Continuous Learning
-```
-
----
-
-<!-- 💡 SKILLS PROGRESS BARS -->
-<div align="center">
-
-## 💡 **SKILL PROGRESSION**
-
-*Continuous learning and mastery*
-
-</div>
-
-| Skill | Level |
-|---|---|
-| 🤖 **Artificial Intelligence** | `████████░░` 85% |
-| 🔐 **Cybersecurity** | `█████████░` 88% |
-| 📊 **Data Science** | `█████████░` 90% |
-| 📱 **Mobile Development** | `████████░░` 85% |
-| 🌐 **Web Development** | `████████░░` 80% |
-| ☁️ **Cloud & DevOps** | `███████░░░` 75% |
-
----
-
-<!-- 🌐 SOCIAL LINKS WITH CUSTOM STYLING -->
-<div align="center">
-
-## 🌐 **LET'S CONNECT!**
-
-*Reach out and let's build something secure and insightful together*
-
-<a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/christine-namatovu-a27480343">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:christinenamatovu972@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-### 📊 **Coding Activity**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<!-- 📚 LATEST BLOG POSTS & ACTIVITY -->
-<div align="center">
-
-## 📚 **LATEST UPDATES**
-
-*Insights and knowledge from my tech journey*
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 [The Importance of Data Security in 2025](#)
-- 📊 [Data Science: From Raw Data to Insights](#)
-- 🧠 [Understanding Cybersecurity Threats](#)
-<!-- BLOG-POST-LIST:END -->
+**Reach out:** [LinkedIn](https://www.linkedin.com/in/christine-namatovu-a27480343) | [Email](mailto:christinenamatovu972@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-## 🔥 **RECENT GITHUB ACTIVITY**
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-</div>
-
----
-
-<!-- 📈 VISITOR COUNTER & STATS -->
-<div align="center">
-
-## 📈 **PROFILE INSIGHTS**
-
-<img src="https://komarev.com/ghpvc/?username=NAMATOVU-CHRISTINE&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-
-![Followers](https://img.shields.io/github/followers/NAMATOVU-CHRISTINE?style=for-the-badge&color=0FA90F&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/NAMATOVU-CHRISTINE?style=for-the-badge&color=ffd700&labelColor=0D1117)
-
-</div>
-
----
-
-<!-- 💭 INSPIRATIONAL QUOTE -->
-<div align="center">
-
-## 💭 **QUOTE OF THE DAY**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-
-</div>
-
----
-
-<!-- 🎵 PERSONAL PHILOSOPHY -->
-<div align="center">
-
-## 🎵 **MY PHILOSOPHY**
-
-> *"Security is not a product, but a process. Data is the key to understanding that process."*
-
-**— Namatovu Christine** ✨
-
----
-
-### ⭐ **Fun Facts About Me**
-
-| 🌅 | Early Bird | Best code is written at dawn |
-|---|---|---|
-| 🎮 | Tech Gamer | I debug like it's a quest |
-| 📚 | Lifelong Learner | Always exploring new tech |
-| ☕ | Coffee Enthusiast | Powered by caffeine & curiosity |
-| 🌍 | African Innovator | Building tech that solves real problems |
-| 🚀 | Dream Big | The next big thing starts with small commits |
-
-</div>
-
----
-
-<!-- 🤝 COLLABORATION SECTION -->
-<div align="center">
-
-## 🤝 **OPEN FOR COLLABORATION**
-
-*Let's create something extraordinary together!*
-
-🚀 **AI/ML Projects** | 📱 **Mobile Applications** | 🌍 **Tech for Social Good** | 💡 **Open Source Initiatives**
-
-<br/>
-
-💌 **DM me on [LinkedIn](https://www.linkedin.com/in/christine-namatovu-a27480343) or email at christinenamatovu972@gmail.com**
-
-</div>
-
----
-
----
-
-<!-- 📜 FOOTER WITH GRADIENT -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
-
-**⭐ Star my repositories if you find them useful!**
-
-**💻 Happy Coding! | 🚀 Keep Building! | 🌍 Let's Change the World!**
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-
----
-
-*Last Updated: 2025 | Made with 💜 by Namatovu Christine*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  
+  **Thanks for visiting!** ⭐ Star my repositories if you find them useful!
+  
+  <sub>Made with passion by Christine Namatovu</sub>
 </div>
