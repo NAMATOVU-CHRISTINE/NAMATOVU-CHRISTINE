@@ -50,8 +50,8 @@ I'm a Data Scientist and Security Specialist passionate about:
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amanya-micheal-778a9234a)
-- 📧 Email: amanyamicheal770@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/christine-namatovu-a27480343)
+- 📧 Email: christinenamatovu972@gmail.com
 - 🐙 [GitHub](https://github.com/NAMATOVU-CHRISTINE)
 
 ## 🌟 Featured Projects

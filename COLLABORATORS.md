@@ -12,6 +12,8 @@ I'm always excited to work on innovative projects, especially those involving Da
 ## 📬 How to Reach Me
 
 - **GitHub:** [NAMATOVU-CHRISTINE](https://github.com/NAMATOVU-CHRISTINE)
+- **LinkedIn:** [Christine Namatovu](https://www.linkedin.com/in/christine-namatovu-a27480343)
+- **Email:** christinenamatovu972@gmail.com
 
 ## 🎯 Collaboration Process
 

@@ -326,10 +326,10 @@ mindmap
 <a href="https://github.com/NAMATOVU-CHRISTINE">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/amanya-micheal-778a9234a">
+<a href="https://www.linkedin.com/in/christine-namatovu-a27480343">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:amanyamicheal770@gmail.com">
+<a href="mailto:christinenamatovu972@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -448,7 +448,7 @@ mindmap
 
 <br/>
 
-💌 **DM me on [LinkedIn](https://www.linkedin.com/in/amanya-micheal-778a9234a) or email at amanyamicheal770@gmail.com**
+💌 **DM me on [LinkedIn](https://www.linkedin.com/in/christine-namatovu-a27480343) or email at christinenamatovu972@gmail.com**
 
 </div>
 
