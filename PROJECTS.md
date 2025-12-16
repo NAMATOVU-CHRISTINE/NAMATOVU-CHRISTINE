@@ -1,59 +1,32 @@
 # Featured Projects
 
-## 🌾 AgroConnect Mobile
-**Smart Agriculture Solution**
+## 🔐 Security & Operations
+**Network Security & Data Protection**
 
-Real-time market prices for farmers with AI-powered crop recommendations.
+Secure systems design and vulnerability assessment.
 
-- **Repository:** [agroconnect](https://github.com/michealamanya/agroconnect)
-- **Tech Stack:** Flutter, Firebase, Python, Machine Learning
-- **Features:**
-  - Real-time market prices for farmers
-  - Built with Flutter & Firebase
-  - AI-powered crop recommendations
-  - Data analytics dashboard
+- **Focus:** Cybersecurity, Network Defense, Cryptography
+- **Tech Stack:** Python, Kali Linux, Wireshark
+- **Status:** Active
 
 ---
 
-## 🏥 Smart Hospital System
-**AI-Enhanced Healthcare Management**
+## 📊 Data Science Analytics
+**Insight Generation System**
 
-Patient management with AI-powered diagnosis support and real-time health monitoring.
+Advanced data analysis and visualization for decision making.
 
-- **Repository:** [hospital-system](https://github.com/michealamanya/hospital-system)
-- **Tech Stack:** Django, React, TensorFlow, MySQL
-- **Features:**
-  - Patient management & analytics
-  - AI-powered diagnosis support
-  - Real-time health monitoring
-  - Secure data encryption
+- **Focus:** Predictive Analytics, Big Data, Machine Learning
+- **Tech Stack:** Python, Pandas, Scikit-Learn, TensorFlow
+- **Status:** Active
 
 ---
 
-## 🧠 Mental Health Chatbot
-**Empathetic AI Companion**
+## 🌐 Secure Web Infrastructure
+**Robust Web Applications**
 
-Natural language understanding with emotion detection and mental health support.
+Building secure and scalable web solutions.
 
-- **Repository:** [mental-health-bot](https://github.com/michealamanya/mental-health-bot)
-- **Tech Stack:** Python, NLP, TensorFlow, Flask
-- **Features:**
-  - Natural language understanding
-  - Emotion detection & support
-  - Mental health resources
-  - Privacy-first design
-
----
-
-## 🎓 Student Management Pro
-**Smart Campus Solution**
-
-Grade tracking, automated scheduling, and student-teacher portal.
-
-- **Repository:** [student-management](https://github.com/michealamanya/student-management)
-- **Tech Stack:** Java, MySQL, JavaFX, GitHub Copilot
-- **Features:**
-  - Grade tracking & analytics
-  - Automated scheduling
-  - Student-teacher portal
-  - Mobile-responsive design
+- **Focus:** Secure Coding, Web Development, API Security
+- **Tech Stack:** Python, Django, SQL
+- **Status:** In Development

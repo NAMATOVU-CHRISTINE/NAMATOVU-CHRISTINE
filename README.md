@@ -1,12 +1,12 @@
 <!-- 🌍 Ultra-Modern Animated GitHub Profile -->
 <!-- 🎨 HERO BANNER WITH CUSTOM GRADIENT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=AMANYA%20MICHEAL&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,50:ffffff,100:ffd700&height=280&section=header&text=NAMATOVU%20CHRISTINE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Security%20Specialist%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=55" />
 </div>
 
 <!-- 🎭 DYNAMIC TYPING ANIMATION (FIXED) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=💻+Building+the+Future+with+AI+%26+Code;🚀+Transforming+Ideas+into+Impact;🌍+Innovating+for+Africa's+Tomorrow" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=0F9B0F&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🔐+Securing+the+Digital+World;📊+Unlocking+Insights+with+Data+Science;💻+Polyglot+Programmer" alt="Dynamic Typing" />
 </div>
 
 <div align="center">
@@ -31,23 +31,24 @@
 ### 👨‍💻 **The Developer**
 
 ```python
-class AmanyaMicheal:
+class NamatovuChristine:
     def __init__(self):
-        self.name = "Amanya Micheal"
-        self.role = "AI Engineer & Mobile Dev"
-        self.location = "Uganda 🇺🇬"
-        self.education = "MUST - Computer Science"
-        self.languages = ["Python", "Java", "HTML"]
+        self.name = "Namatovu Christine"
+        self.role = "Data Scientist & Security Specialist"
+        self.location = "Global 🌍"
+        self.education = "Lifelong Learner"
+        self.languages = ["Python", "R", "SQL", "C++", "Java", "JavaScript"]
+        self.focus = ["Cybersecurity", "Data Analysis", "Machine Learning"]
         
-    def current_focus(self):
-        return [
-            "Deep Learning & Neural Networks",
-            "Mobile-First AI Applications",
-            "African Tech Solutions"
-        ]
+    def current_mission(self):
+        return {
+            "Protecting": "Digital Assets",
+            "Analyzing": "Complex Datasets",
+            "Building": "Secure Solutions"
+        }
     
-    def life_motto(self):
-        return "Code with purpose, build with passion! 🚀"
+    def motto(self):
+        return "Data drives decisions, Security protects them."
 ```
 
 </td>
@@ -77,31 +78,22 @@ class AmanyaMicheal:
 
 ## ⚡ **TECH STACK**
 
-### 🔥 **Languages**
+### 🔐 **Security & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🤖 **AI & ML**
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📱 **Mobile & Web**
+### 💻 **Languages & Tools**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ **Database & Cloud**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ **Tools**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -117,48 +109,17 @@ class AmanyaMicheal:
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🌾 **AgroConnect Mobile**
-#### Smart Agriculture Solution
+## 🚀 **REPOSITORIES**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michealamanya&repo=agroconnect&theme=radical&hide_border=true)](https://github.com/michealamanya/agroconnect)
+*Explore my work in Data Science and Security*
 
-<div align="left">
-
-- 🎯 Real-time market prices  
-- 📱 Flutter & Firebase  
-- 🤖 AI crop recommendations  
-- 📊 Advanced analytics
+<a href="https://github.com/NAMATOVU-CHRISTINE?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+</a>
 
 </div>
-
-**Tech Stack:** `Flutter` `Firebase` `Python` `ML`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 **Smart Hospital System**
-#### AI Healthcare Management
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michealamanya&repo=hospital-system&theme=radical&hide_border=true)](https://github.com/michealamanya/hospital-system)
-
-<div align="left">
-
-- ⚕️ Patient management  
-- 🤖 AI diagnosis support  
-- 📈 Health monitoring  
-- 🔐 Secure encryption
-
-</div>
-
-**Tech Stack:** `Django` `TensorFlow` `MySQL` `React`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -172,13 +133,13 @@ class AmanyaMicheal:
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=michealamanya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=michealamanya&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&icon_color=ffd700&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NAMATOVU-CHRISTINE&theme=radical&hide_border=true&background=0D1117&ring=0FA90F&fire=ffd700&currStreakLabel=0FA90F" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michealamanya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=michealamanya&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=react-dark&hide_border=true&bg_color=0D1117&color=0FA90F&line=ffd700&point=ffffff" alt="Activity Graph" />
 </p>
 
 ---
@@ -190,7 +151,7 @@ class AmanyaMicheal:
 
 *Celebrating my journey and accomplishments*
 
-<img src="https://github-profile-trophy.vercel.app/?username=michealamanya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=NAMATOVU-CHRISTINE&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="Trophies" />
 
 </div>
 
@@ -198,7 +159,7 @@ class AmanyaMicheal:
 
 ### 📈 **Contribution Stats**
 
-![](https://github-contributor-stats.vercel.app/api?username=michealamanya&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
@@ -215,27 +176,23 @@ class AmanyaMicheal:
 
 ```mermaid
 mindmap
-  root((Amanya 2025))
-    AI Engineering
-      Deep Learning Mastery
-      Neural Networks
-      Edge AI Development
-      Computer Vision
-    Mobile Development
-      Flutter Excellence
-      Cross-Platform Apps
-      Firebase Integration
-      UI/UX Design
-    IoT & Embedded
-      Arduino Projects
-      Raspberry Pi
-      Smart Sensors
-      Home Automation
-    Open Source
-      Contributing Daily
-      Building Libraries
-      Community Impact
-      Tech for Africa
+  root((Christine 2025))
+    Data Science
+      Predictive Analytics
+      Big Data
+      Visualization
+    Security
+      Ethical Hacking
+      Network Defense
+      Cryptography
+    Programming
+      Python Mastery
+      Secure Coding
+      Algorithm Design
+    Growth
+      Open Source
+      Community Building
+      Continuous Learning
 ```
 
 ---
@@ -265,18 +222,9 @@ mindmap
 
 ## 🌐 **LET'S CONNECT!**
 
-*Reach out and let's build something amazing together*
+*Reach out and let's build something secure and insightful together*
 
-<a href="mailto:amanyamicheal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/amanya-micheal-778a9234a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/amanyamicheal_a">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://github.com/michealamanya">
+<a href="https://github.com/NAMATOVU-CHRISTINE">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -287,16 +235,14 @@ mindmap
 <!-- 📚 LATEST BLOG POSTS -->
 <div align="center">
 
-## 📚 **LATEST BLOG POSTS**
+## 📚 **LATEST UPDATES**
 
 *Insights and knowledge from my tech journey*
 
 <!-- BLOG-POST-LIST:START -->
-- 🤖 [Building AI Applications for African Markets](#)
-- 📱 [Flutter Best Practices for Production Apps](#)
-- 🧠 [Understanding Deep Learning: A Practical Guide](#)
-- 🌾 [Tech Innovation in Agriculture: My Journey](#)
-- 💡 [From Student to AI Engineer: Lessons Learned](#)
+- 🔐 [The Importance of Data Security in 2025](#)
+- � [Data Science: From Raw Data to Insights](#)
+- 🧠 [Understanding Cybersecurity Threats](#)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
@@ -311,9 +257,9 @@ mindmap
 *Watch me code - one commit at a time*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg?raw=true">
-  <img alt="github contribution grid snake animation" src="https://github.com/michealamanya/michealamanya/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img alt="github contribution grid snake animation" src="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </picture>
 
 </div>
@@ -325,10 +271,10 @@ mindmap
 
 ## 📈 **PROFILE INSIGHTS**
 
-<img src="https://komarev.com/ghpvc/?username=michealamanya&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=NAMATOVU-CHRISTINE&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 
-![Followers](https://img.shields.io/github/followers/michealamanya?style=for-the-badge&color=667eea&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/michealamanya?style=for-the-badge&color=f093fb&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/NAMATOVU-CHRISTINE?style=for-the-badge&color=0FA90F&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/NAMATOVU-CHRISTINE?style=for-the-badge&color=ffd700&labelColor=0D1117)
 
 </div>
 
@@ -350,10 +296,9 @@ mindmap
 
 ## 🎵 **MY PHILOSOPHY**
 
-> *"Technology is not just about code, it's about creating solutions that matter.  
-> Every line I write is a step toward building a better future for Africa."*
+> *"Security is not a product, but a process. Data is the key to understanding that process."*
 
-**— Amanya Micheal** ✨
+**— Namatovu Christine** ✨
 
 ---
 
@@ -420,6 +365,6 @@ mindmap
 
 ---
 
-*Last Updated: 2025 | Made with 💜 and ☕ by Amanya Micheal*
+*Last Updated: 2025 | Made with 💜 by Namatovu Christine*
 
 </div>
