@@ -1,18 +1,9 @@
-<!-- 🌍 Ultra-Modern Animated GitHub Profile -->
-<!-- 🎨 HERO BANNER WITH CUSTOM GRADIENT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,50:ffffff,100:ffd700&height=280&section=header&text=NAMATOVU%20CHRISTINE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Security%20Specialist%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=55" />
-</div>
-
-<!-- 🎭 DYNAMIC TYPING ANIMATION (FIXED) -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=0F9B0F&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🔐+Securing+the+Digital+World;📊+Unlocking+Insights+with+Data+Science;💻+Building+Secure+Solutions" alt="Dynamic Typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,50:ffffff,100:ffd700&height=200&section=header&text=NAMATOVU%20CHRISTINE&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20|%20Security%20Specialist%20|%20Tech%20Enthusiast&descSize=18&descAlignY=60" />
 </div>
 
 <div align="center">
-  
-  ✨ **Welcome to my digital space** ✨
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=0F9B0F&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🔐+Securing+the+Digital+World;📊+Unlocking+Insights+with+Data+Science;💻+Building+Secure+Solutions" alt="Dynamic Typing" />
 </div>
 
 ---
