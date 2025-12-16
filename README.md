@@ -6,7 +6,7 @@
 
 <!-- 🎭 DYNAMIC TYPING ANIMATION (FIXED) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=0F9B0F&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🔐+Securing+the+Digital+World;📊+Unlocking+Insights+with+Data+Science;💻+Polyglot+Programmer" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=0F9B0F&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🔐+Securing+the+Digital+World;📊+Unlocking+Insights+with+Data+Science;💻+Building+Secure+Solutions" alt="Dynamic Typing" />
 </div>
 
 <div align="center">
@@ -129,26 +129,62 @@ class NamatovuChristine:
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🔐 Security & Operations
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NAMATOVU-CHRISTINE&repo=security-operations&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&icon_color=ffd700&text_color=c9d1d9)](https://github.com/NAMATOVU-CHRISTINE)
+
+<img src="https://img.shields.io/badge/Cybersecurity-0FA90F?style=for-the-badge&logo=security&logoColor=white" />
 
 **Network Security & Data Protection**
-- Secure systems design
-- Vulnerability assessment
-- Cryptography implementation
+
+🛡️ Secure systems design  
+🔍 Vulnerability assessment  
+🔐 Cryptography implementation  
+🌐 Network defense strategies
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 📊 Data Science Analytics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NAMATOVU-CHRISTINE&repo=data-analytics&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&icon_color=ffd700&text_color=c9d1d9)](https://github.com/NAMATOVU-CHRISTINE)
+
+<img src="https://img.shields.io/badge/Data_Science-ffd700?style=for-the-badge&logo=python&logoColor=black" />
 
 **Insight Generation System**
-- Predictive Analytics
-- Machine Learning Models
-- Data Visualization
+
+📈 Predictive Analytics  
+🤖 Machine Learning Models  
+📉 Data Visualization  
+🧮 Statistical Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🌐 Web Development
+
+<img src="https://img.shields.io/badge/Full_Stack-667eea?style=for-the-badge&logo=code&logoColor=white" />
+
+**Secure Web Applications**
+
+💻 Responsive design  
+🔒 Security-first approach  
+⚡ Performance optimization  
+🎨 Modern UI/UX
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📱 Mobile Development
+
+<img src="https://img.shields.io/badge/Mobile_Apps-f093fb?style=for-the-badge&logo=flutter&logoColor=white" />
+
+**Cross-Platform Solutions**
+
+📲 Flutter development  
+🎯 User-centric design  
+🔄 Real-time features  
+📊 Data integration
 
 </td>
 </tr>
