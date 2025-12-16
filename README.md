@@ -6,6 +6,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=0F9B0F&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🔐+Securing+the+Digital+World;📊+Unlocking+Insights+with+Data+Science;💻+Building+Secure+Solutions" alt="Dynamic Typing" />
 </div>
 
+<!-- 🐍 CONTRIBUTION ANIMATION -->
+<div align="center">
+  
+### 🐍 **CONTRIBUTION ACTIVITY**
+*Watch me code - one commit at a time*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img alt="github contribution grid snake animation" src="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake.svg?raw=true" />
+</picture>
+
+</div>
+
 ---
 
 <!-- 🎯 MODERN PROFILE CARDS SECTION -->
@@ -356,23 +370,6 @@ mindmap
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
-
-</div>
-
----
-
-<!-- 🐍 CONTRIBUTION SNAKE (FIXED) -->
-<div align="center">
-
-## 🐍 **CONTRIBUTION ACTIVITY**
-
-*Watch me code - one commit at a time*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake.svg?raw=true">
-  <img alt="github contribution grid snake animation" src="https://github.com/NAMATOVU-CHRISTINE/NAMATOVU-CHRISTINE/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</picture>
 
 </div>
 
