@@ -454,22 +454,6 @@ mindmap
 
 ---
 
-<!-- 🎯 SUPPORT SECTION -->
-<div align="center">
-
-## ☕ **SUPPORT MY WORK**
-
-*If you find my projects helpful, consider supporting me!*
-
-<a href="https://www.buymeacoffee.com/amanyamicheal">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-<a href="https://ko-fi.com/amanyamicheal">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>
-
-</div>
-
 ---
 
 <!-- 📜 FOOTER WITH GRADIENT -->
