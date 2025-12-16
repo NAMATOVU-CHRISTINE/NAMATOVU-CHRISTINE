@@ -128,14 +128,6 @@ const christine = {
 
 ---
 
-### Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NAMATOVU-CHRISTINE&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
-
----
-
 ### Let's Connect
 
 <div align="center">
