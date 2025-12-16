@@ -215,10 +215,6 @@ class NamatovuChristine:
 </p>
 
 <p align="center">
-  <img width="66%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=react-dark&hide_border=true&bg_color=0D1117&color=0FA90F&line=ffd700&point=ffffff&area=true&area_color=0FA90F" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0FA90F&text_color=c9d1d9&langs_count=10&hide=html,css" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAMATOVU-CHRISTINE&theme=radical&utcOffset=3" alt="Productive Time" />
 </p>
