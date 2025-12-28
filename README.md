@@ -34,68 +34,21 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
 
-<!-- Live Chat Style Introduction -->
-<table>
-<tr><td>
+```
+You visited Christine's profile
+```
 
-**You visited my profile**
+> **Christine:** Hey! I'm a Computer Scientist from Uganda
 
-</td></tr>
-</table>
+> **Christine:** Currently studying @ MUST
 
-<table>
-<tr><td>
-<img src="https://github.com/NAMATOVU-CHRISTINE.png" width="30" style="border-radius:50%"/> <b>Christine</b> <sub>typing...</sub>
-</td></tr>
-</table>
+> **Christine:** I build AI-integrated Mobile & Web Applications
 
-<table>
-<tr><td>
+> **Christine:** Passionate about Data Security, AI, and IoT
 
-Hey! I'm Christine from Uganda
+> **Christine:** Open for collaborations and job opportunities
 
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
-Computer Science student @ MUST
-
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
-I build AI-integrated Mobile & Web Applications
-
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
-Passionate about Data Security, AI, and IoT
-
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
-Currently open for collaborations and job opportunities
-
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
-Let's build something amazing together!
-
-</td></tr>
-</table>
+> **Christine:** Let's build something amazing together!
 
 <br clear="right"/>
 
