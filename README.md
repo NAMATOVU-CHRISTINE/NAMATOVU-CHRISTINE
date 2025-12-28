@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Christine%20Namatovu&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Secure%20%26%20Intelligent%20Solutions&descSize=18&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Christine%20Namatovu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Secure%20%26%20Intelligent%20Solutions&descSize=18&descAlignY=55&descAlign=50" />
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Scientist+%7C+Security+Specialist;Building+the+Future+with+Code;Turning+Data+into+Decisions" alt="Typing SVG" /></a>
