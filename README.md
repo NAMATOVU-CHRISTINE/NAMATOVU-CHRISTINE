@@ -50,21 +50,32 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
 
+```python
+class Christine:
+    def __init__(self):
+        self.name = "Christine Namatovu"
+        self.location = "Uganda"
+        self.education = "Computer Science @ MUST"
+        self.role = "Computer Scientist"
+        
+    def passions(self):
+        return [
+            "Artificial Intelligence",
+            "Data Security",
+            "Mobile Development",
+            "Web Development",
+            "IoT & Embedded Systems"
+        ]
+    
+    def current_work(self):
+        return "Building AI-integrated Mobile & Web Apps"
+    
+    def open_to(self):
+        return ["Collaborations", "Job Opportunities", "New Technologies"]
+    
+    def motto(self):
+        return "Empowering the next generation of innovators"
 ```
-You visited Christine's profile
-```
-
-> **Christine:** Hey! I'm a Computer Scientist from Uganda
-
-> **Christine:** Currently studying @ MUST
-
-> **Christine:** I build AI-integrated Mobile & Web Applications
-
-> **Christine:** Passionate about Data Security, AI, and IoT
-
-> **Christine:** Open for collaborations and job opportunities
-
-> **Christine:** Let's build something amazing together!
 
 <br clear="right"/>
 
