@@ -97,14 +97,19 @@ const christine: Developer = {
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&hide=html,css" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&border_radius=10&area=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&border_radius=10&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAMATOVU-CHRISTINE&theme=tokyonight" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAMATOVU-CHRISTINE&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAMATOVU-CHRISTINE&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAMATOVU-CHRISTINE&theme=tokyonight&utcOffset=3" width="32%" />
 </div>
 
 <!-- Animated Divider -->
