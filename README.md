@@ -42,7 +42,7 @@ class Christine:
     def __init__(self):
         self.name = "Christine Namatovu"
         self.location = "Uganda"
-        self.education = "Computer Science @ Mbarara University of Science and Technology "
+        self.education = "Computer Science @ Mbarara University of Science and Technology"
         self.role = "Computer Scientist"
         
     def passions(self):
