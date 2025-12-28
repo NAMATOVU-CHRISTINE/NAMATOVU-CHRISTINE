@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Christine%20Namatovu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Secure%20%26%20Intelligent%20Solutions&descSize=18&descAlignY=55&descAlign=50" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Computer+Scientist+%7C+AI+Enthusiast;Data+Security+%7C+Blockchain+%7C+Mobile+Dev;Open+for+Collaboration+%26+Opportunities" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Computer+Scientist+%7C+AI+Enthusiast;Data+Security+%7C+Mobile+%26+Web+Dev;Open+for+Collaboration+%26+Opportunities" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <br/>
@@ -41,8 +41,8 @@ const christine: Developer = {
     passions: [
         "Data Security",
         "Artificial Intelligence", 
-        "Blockchain Technology",
         "Mobile & Web Development",
+        "IoT & Embedded Systems",
         "Educating Future Innovators"
     ],
     
@@ -140,14 +140,14 @@ const christine: Developer = {
 <tr>
 <td width="50%" align="center">
 
-<h3>� Mobille & Web Dev</h3>
+<h3>� Mobile & Web Dev</h3>
 <p>Cross-platform Apps • Web Applications • API Design • User Experience</p>
 
 </td>
 <td width="50%" align="center">
 
-<h3>⛓️ Blockchain</h3>
-<p>Decentralized Apps • Smart Contracts • Web3 Technologies • Innovation</p>
+<h3>🌍 Tech for Good</h3>
+<p>Open Source • Community Building • Knowledge Sharing • Innovation</p>
 
 </td>
 </tr>
