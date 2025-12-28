@@ -1,26 +1,7 @@
 <div align="center">
 
 <!-- Animated Bouncy Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hey+there,+I'm+Christine+Namatovu!" alt="Hey there, I'm Christine Namatovu" />
-
-<br/><br/>
-
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/christine-namatovu-a27480343">
-  <img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:christinenamatovu972@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=NAMATOVU-CHRISTINE&style=flat-square&color=8B5CF6" />
-<img src="https://img.shields.io/github/followers/NAMATOVU-CHRISTINE?style=flat-square&color=06B6D4" />
-<img src="https://img.shields.io/github/stars/NAMATOVU-CHRISTINE?style=flat-square&color=ffd700" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Halo,+It's+Christine!" alt="Halo, It's Christine" />
 
 </div>
 
