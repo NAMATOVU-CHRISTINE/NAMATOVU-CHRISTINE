@@ -2,25 +2,14 @@
 
 ## Hey there
 
-<a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/Hey,_I'm_Christine-8B5CF6?style=for-the-badge&labelColor=555" />
-</a>
+<img src="https://img.shields.io/badge/I'm_Christine-3a3a3a?style=for-the-badge" />
 
-<a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/Computer_Scientist_from_Uganda-06B6D4?style=for-the-badge&labelColor=555" />
-</a>
+<img src="https://img.shields.io/badge/Computer_Scientist_from_Uganda-3a3a3a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Passionate_about_AI_and_Data_Security-3a3a3a?style=for-the-badge" />
 
-<a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/Passionate_about_AI_and_Data_Security-8B5CF6?style=for-the-badge&labelColor=555" />
-</a>
+<img src="https://img.shields.io/badge/Building_Mobile_&_Web_Apps_with_AI-3a3a3a?style=for-the-badge" />
 
-<a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/Building_Mobile_&_Web_Apps_with_AI-06B6D4?style=for-the-badge&labelColor=555" />
-</a>
-
-<a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/Open_for_Collaborations_&_Opportunities-8B5CF6?style=for-the-badge&labelColor=555" />
-</a>
+<img src="https://img.shields.io/badge/...-3a3a3a?style=for-the-badge" />
 
 <br/><br/>
 
