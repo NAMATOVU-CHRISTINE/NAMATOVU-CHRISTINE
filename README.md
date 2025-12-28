@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Bouncing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Christine+Namatovu!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Hey+there%2C+I'm+Christine!" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Computer+Scientist+%F0%9F%92%BB;AI+%26+Data+Security+Enthusiast+%F0%9F%94%90;Mobile+%26+Web+Developer+%F0%9F%93%B1;Open+for+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -32,20 +32,35 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
 
-> 💡 Grounded and solution-oriented **Computer Scientist** passionate about building innovative tech solutions.
+<table>
+<tr>
+<td>
 
-```javascript
-const christine = {
-    location: "Uganda 🇺🇬",
-    education: "Computer Science @ MUST",
-    passions: ["AI", "Data Security", "Mobile Dev", "Web Dev", "IoT"],
-    currentWork: "Building AI-integrated Mobile & Web Apps",
-    openTo: ["Collaborations", "Job Opportunities", "New Tech"],
-    motto: "Empowering the next generation of innovators"
-};
-```
+**🎓 Education:** Computer Science @ MUST
+
+**📍 Location:** Uganda 🇺🇬
+
+**💼 Currently:** Building AI-integrated Mobile & Web Apps
+
+**🔥 Passions:**
+- 🤖 Artificial Intelligence
+- 🔐 Data Security  
+- 📱 Mobile Development
+- 🌐 Web Development
+- ⚙️ IoT & Embedded Systems
+
+**🚀 Open To:**
+- 🤝 Collaborations
+- 💼 Job Opportunities
+- 🆕 New Technologies
+
+</td>
+</tr>
+</table>
+
+> *"Empowering the next generation of technology users and innovators"*
 
 <br clear="right"/>
 
