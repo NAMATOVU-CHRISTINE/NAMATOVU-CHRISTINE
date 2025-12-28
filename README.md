@@ -42,7 +42,7 @@ class Christine:
     def __init__(self):
         self.name = "Christine Namatovu"
         self.location = "Uganda"
-        self.education = "Computer Science @ MUST"
+        self.education = "Computer Science @ Mbarara University of Science and Technology "
         self.role = "Computer Scientist"
         
     def passions(self):
@@ -85,8 +85,7 @@ class Christine:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
+  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
