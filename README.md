@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Christine%20Namatovu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Secure%20%26%20Intelligent%20Solutions&descSize=18&descAlignY=55&descAlign=50" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Scientist+%7C+Security+Specialist;Building+the+Future+with+Code;Turning+Data+into+Decisions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Computer+Scientist+%7C+AI+Enthusiast;Data+Security+%7C+Blockchain+%7C+Mobile+Dev;Open+for+Collaboration+%26+Opportunities" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <br/>
@@ -30,23 +30,27 @@
   About Me
 </h2>
 
+> Grounded and solution-oriented **Computer Scientist** with a wide variety of professional experiences. Adept at motivating self and others.
+
 ```typescript
 const christine: Developer = {
     pronouns: "she" | "her",
     location: "Uganda 🇺🇬",
     education: "Computer Science @ MUST",
     
-    expertise: {
-        datascience: ["Machine Learning", "Deep Learning", "Analytics"],
-        security: ["Network Defense", "Cryptography", "Ethical Hacking"],
-        development: ["Full Stack", "Mobile Apps", "IoT Systems"]
-    },
+    passions: [
+        "Data Security",
+        "Artificial Intelligence", 
+        "Blockchain Technology",
+        "Mobile & Web Development",
+        "Educating Future Innovators"
+    ],
     
-    currentlyLearning: ["TensorFlow", "Edge AI", "Cloud Security"],
+    currentWork: "Building Mobile & Web Apps integrated with AI",
     
-    funFact: "I debug with coffee and curiosity ☕",
+    openTo: ["Collaborations", "Job Opportunities", "New Technologies"],
     
-    lifePhilosophy: "Data drives decisions, Security protects them"
+    motto: "Empowering the next generation of technology users and innovators"
 };
 ```
 
@@ -117,28 +121,28 @@ const christine: Developer = {
 <tr>
 <td width="50%" align="center">
   
-<h3>🔐 Security</h3>
-<p>Network Defense • Penetration Testing • Cryptography • Secure Architecture</p>
+<h3>🔐 Data Security</h3>
+<p>Protecting digital assets • Secure systems • Cryptography • Privacy solutions</p>
 
 </td>
 <td width="50%" align="center">
 
-<h3>📊 Data Science</h3>
-<p>Machine Learning • Predictive Analytics • Data Visualization • Deep Learning</p>
+<h3>🤖 Artificial Intelligence</h3>
+<p>Machine Learning • AI Integration • Smart Solutions • Predictive Analytics</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-<h3>💻 Development</h3>
-<p>Full Stack Apps • Mobile Development • API Design • Cloud Solutions</p>
+<h3>� Mobille & Web Dev</h3>
+<p>Cross-platform Apps • Web Applications • API Design • User Experience</p>
 
 </td>
 <td width="50%" align="center">
 
-<h3>🌍 Impact</h3>
-<p>Tech for Good • Open Source • Community Building • Knowledge Sharing</p>
+<h3>⛓️ Blockchain</h3>
+<p>Decentralized Apps • Smart Contracts • Web3 Technologies • Innovation</p>
 
 </td>
 </tr>
@@ -156,7 +160,7 @@ const christine: Developer = {
 
 <div align="center">
   
-<p><i>I'm always excited to collaborate on innovative projects!</i></p>
+<p><i>Open for collaboration on various projects and job opportunities!</i></p>
 
 <a href="https://www.linkedin.com/in/christine-namatovu-a27480343">
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
