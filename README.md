@@ -34,33 +34,22 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
 
-<table>
-<tr>
-<td>
-
-**🎓 Education:** Computer Science @ MUST
-
-**📍 Location:** Uganda 🇺🇬
-
-**💼 Currently:** Building AI-integrated Mobile & Web Apps
-
-**🔥 Passions:**
-- 🤖 Artificial Intelligence
-- 🔐 Data Security  
-- 📱 Mobile Development
-- 🌐 Web Development
-- ⚙️ IoT & Embedded Systems
-
-**🚀 Open To:**
-- 🤝 Collaborations
-- 💼 Job Opportunities
-- 🆕 New Technologies
-
-</td>
-</tr>
-</table>
-
-> *"Empowering the next generation of technology users and innovators"*
+```javascript
+const christine = {
+    location: "Uganda",
+    education: "Computer Science @ MUST",
+    passions: [
+        "Artificial Intelligence",
+        "Data Security",
+        "Mobile Development",
+        "Web Development",
+        "IoT & Embedded Systems"
+    ],
+    currentWork: "Building AI-integrated Mobile & Web Apps",
+    openTo: ["Collaborations", "Job Opportunities", "New Technologies"],
+    motto: "Empowering the next generation of innovators"
+};
+```
 
 <br clear="right"/>
 
