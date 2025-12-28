@@ -90,7 +90,7 @@ class Christine:
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
 </div>
 
 <div align="center">
@@ -137,9 +137,6 @@ class Christine:
 
 <br/>
 
-<!-- Animated Footer -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+Star+my+repos!" />
 </div>
