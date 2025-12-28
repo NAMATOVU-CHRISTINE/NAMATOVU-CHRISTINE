@@ -32,24 +32,70 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
 
-```javascript
-const christine = {
-    location: "Uganda",
-    education: "Computer Science @ MUST",
-    passions: [
-        "Artificial Intelligence",
-        "Data Security",
-        "Mobile Development",
-        "Web Development",
-        "IoT & Embedded Systems"
-    ],
-    currentWork: "Building AI-integrated Mobile & Web Apps",
-    openTo: ["Collaborations", "Job Opportunities", "New Technologies"],
-    motto: "Empowering the next generation of innovators"
-};
-```
+<!-- Live Chat Style Introduction -->
+<table>
+<tr><td>
+
+**You visited my profile**
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+<img src="https://github.com/NAMATOVU-CHRISTINE.png" width="30" style="border-radius:50%"/> <b>Christine</b> <sub>typing...</sub>
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+Hey! I'm Christine from Uganda
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+Computer Science student @ MUST
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+I build AI-integrated Mobile & Web Applications
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+Passionate about Data Security, AI, and IoT
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+Currently open for collaborations and job opportunities
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+Let's build something amazing together!
+
+</td></tr>
+</table>
 
 <br clear="right"/>
 
