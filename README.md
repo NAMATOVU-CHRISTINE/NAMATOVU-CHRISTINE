@@ -1,52 +1,30 @@
 <div align="center">
 
-<!-- Animated Waving Hand -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=435&lines=Hey+there!+%F0%9F%91%8B" alt="Hey there" />
-
-<br/>
-
-<!-- Animated Chat Bubbles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FFFFFF&background=3A3A3A&center=true&vCenter=true&repeat=true&width=200&height=35&lines=I'm+Christine" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=FFFFFF&background=3A3A3A&center=true&vCenter=true&repeat=true&width=380&height=35&lines=Computer+Scientist+from+Uganda+%F0%9F%87%BA%F0%9F%87%AC" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=700&color=FFFFFF&background=3A3A3A&center=true&vCenter=true&repeat=true&width=420&height=35&lines=Passionate+about+AI+and+Data+Security+%F0%9F%94%90" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=800&color=FFFFFF&background=3A3A3A&center=true&vCenter=true&repeat=true&width=400&height=35&lines=Building+Mobile+%26+Web+Apps+with+AI+%F0%9F%9A%80" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=900&color=FFFFFF&background=3A3A3A&center=true&vCenter=true&repeat=true&width=380&height=35&lines=Open+for+Collaborations+%26+Opportunities+%E2%9C%A8" />
+<!-- Animated Bouncy Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hey+there,+I'm+Christine+Namatovu!" alt="Hey there, I'm Christine Namatovu" />
 
 <br/><br/>
 
-<!-- Animated Social Badges -->
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/christine-namatovu-a27480343">
-  <img src="https://img.shields.io/badge/-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:christinenamatovu972@gmail.com">
-  <img src="https://img.shields.io/badge/-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/NAMATOVU-CHRISTINE">
-  <img src="https://img.shields.io/badge/-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<!-- Animated Stats -->
-<img src="https://komarev.com/ghpvc/?username=NAMATOVU-CHRISTINE&style=for-the-badge&color=8B5CF6&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/NAMATOVU-CHRISTINE?style=for-the-badge&color=06B6D4&label=Followers" />
-<img src="https://img.shields.io/github/stars/NAMATOVU-CHRISTINE?style=for-the-badge&color=ffd700&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=NAMATOVU-CHRISTINE&style=flat-square&color=8B5CF6" />
+<img src="https://img.shields.io/github/followers/NAMATOVU-CHRISTINE?style=flat-square&color=06B6D4" />
+<img src="https://img.shields.io/github/stars/NAMATOVU-CHRISTINE?style=flat-square&color=ffd700" />
 
 </div>
 
-<!-- Animated Rainbow Line -->
+<!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
