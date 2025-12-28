@@ -37,8 +37,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
-
 ```python
 class Christine:
     def __init__(self):
@@ -65,8 +63,6 @@ class Christine:
     def motto(self):
         return "Empowering the next generation of innovators"
 ```
-
-<br clear="right"/>
 
 <!-- Animated Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
