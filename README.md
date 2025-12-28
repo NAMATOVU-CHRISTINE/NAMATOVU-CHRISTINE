@@ -1,14 +1,30 @@
 <div align="center">
 
-<!-- Bouncing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Hey+there%2C+I'm+Christine!" alt="Typing SVG" />
+## Hey there
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Computer+Scientist+%F0%9F%92%BB;AI+%26+Data+Security+Enthusiast+%F0%9F%94%90;Mobile+%26+Web+Developer+%F0%9F%93%B1;Open+for+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/NAMATOVU-CHRISTINE">
+  <img src="https://img.shields.io/badge/Hey,_I'm_Christine-8B5CF6?style=for-the-badge&labelColor=555" />
+</a>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<a href="https://github.com/NAMATOVU-CHRISTINE">
+  <img src="https://img.shields.io/badge/Computer_Scientist_from_Uganda-06B6D4?style=for-the-badge&labelColor=555" />
+</a>
 
-<!-- Social Badges with Bounce Effect -->
+<a href="https://github.com/NAMATOVU-CHRISTINE">
+  <img src="https://img.shields.io/badge/Passionate_about_AI_and_Data_Security-8B5CF6?style=for-the-badge&labelColor=555" />
+</a>
+
+<a href="https://github.com/NAMATOVU-CHRISTINE">
+  <img src="https://img.shields.io/badge/Building_Mobile_&_Web_Apps_with_AI-06B6D4?style=for-the-badge&labelColor=555" />
+</a>
+
+<a href="https://github.com/NAMATOVU-CHRISTINE">
+  <img src="https://img.shields.io/badge/Open_for_Collaborations_&_Opportunities-8B5CF6?style=for-the-badge&labelColor=555" />
+</a>
+
+<br/><br/>
+
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/christine-namatovu-a27480343">
   <img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
