@@ -1,10 +1,7 @@
 <div align="center">
-  
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Christine%20Namatovu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Secure%20%26%20Intelligent%20Solutions&descSize=18&descAlignY=55&descAlign=50" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Computer+Scientist+%7C+AI+Enthusiast;Data+Security+%7C+Mobile+%26+Web+Dev;Open+for+Collaboration+%26+Opportunities" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Christine+Namatovu;Computer+Scientist+%7C+AI+Enthusiast;Data+Security+%7C+Mobile+%26+Web+Dev" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <br/>
