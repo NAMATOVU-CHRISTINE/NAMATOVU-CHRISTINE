@@ -66,13 +66,6 @@ class Christine:
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  
-</div>
-
-<div align="center">
-  
   <!-- Activity Graph -->
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
   
