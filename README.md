@@ -60,7 +60,7 @@ class Christine:
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="GitHub Streak" />
   
 </div>
 
