@@ -60,22 +60,22 @@ class Christine:
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img width="60%" src="https://streak-stats.demolab.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   
 </div>
 
 <div align="center">
   
   <!-- Activity Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
   
 </div>
 
