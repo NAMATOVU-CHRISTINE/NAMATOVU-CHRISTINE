@@ -59,8 +59,8 @@ class Christine:
 
 <div align="center">
   
-  <!-- GitHub Streak Stats - Using DenverCoder1's service -->
-  <img width="60%" src="https://streak-stats.demolab.com/?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- GitHub Streak Stats - Using Nirzak's Koyeb deployment -->
+  <img width="60%" src="https://nirzak-streak-stats.koyeb.app?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
   
 </div>
 
