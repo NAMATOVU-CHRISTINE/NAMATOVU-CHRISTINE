@@ -58,7 +58,7 @@ class Christine:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
