@@ -40,6 +40,15 @@ class Christine:
 <!-- Animated Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+## GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMATOVU-CHRISTINE&theme=default&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<!-- Animated Line -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## Tech Stack
 
 <div align="center">
