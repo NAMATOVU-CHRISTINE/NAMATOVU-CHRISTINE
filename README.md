@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://git-readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Halo,+It's+Christine" alt="Halo, It's Christine" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Halo,%20It's%20Christine&fontSize=40&fontAlignY=40&animation=twinkling" alt="Halo, It's Christine" />
 
 </div>
 
