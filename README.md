@@ -58,11 +58,21 @@ class Christine:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
+<<<<<<< HEAD
   <img width="60%" src="https://streak-stats.demolab.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" />
+=======
+  
+  <!-- GitHub Streak Stats -->
+  <img width="60%" src="https://streak-stats.demolab.com/?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="GitHub Streak" />
+  
+>>>>>>> 6321476e4a84aa75dba1ccf191f693cc7aa7bc4f
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true" />
+  
+  <!-- Activity Graph -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  
 </div>
 
 <!-- Animated Line -->
