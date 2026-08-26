@@ -55,32 +55,6 @@ class Christine:
 <!-- Animated Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
-
-<div align="center">
-  
-  <!-- Official DenverCoder1 Streak Stats -->
-  <img width="60%" src="https://streak-stats.demolab.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak Stats" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAMATOVU-CHRISTINE&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>
-
-<!-- Animated Line -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> What I Do
 
 <div align="center">
