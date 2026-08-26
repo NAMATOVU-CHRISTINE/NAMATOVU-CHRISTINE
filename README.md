@@ -59,20 +59,18 @@ class Christine:
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-  </picture>
+  <!-- GitHub Streak Stats - Using DenverCoder1's service -->
+  <img width="60%" src="https://streak-stats.demolab.com/?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   
 </div>
+
+<br/>
 
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
 </div>
 
