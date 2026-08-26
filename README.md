@@ -40,19 +40,6 @@ class Christine:
 <!-- Animated Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## GitHub Streak
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Total_Contributions-3,104-blue?style=for-the-badge&logo=github" alt="Total Contributions" />
-  <img src="https://img.shields.io/badge/Current_Streak-3_days-orange?style=for-the-badge&logo=fire" alt="Current Streak" />
-  <img src="https://img.shields.io/badge/Longest_Streak-29_days-green?style=for-the-badge&logo=star" alt="Longest Streak" />
-  
-</div>
-
-<!-- Animated Line -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## Tech Stack
 
 <div align="center">
