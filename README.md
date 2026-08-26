@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Halo%2C+It's+Christine;Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Halo%2C+It's+Christine;Welcome+to+my+profile " alt="Typing SVG" />
 
 </div>
 
@@ -59,7 +59,7 @@ class Christine:
 
 <div align="center">
 
-| 🔐 **Data Security** | 🤖 **AI & ML** | 📱 **Mobile & Web** | 🌍 **Tech for Good** |
+| **Data Security** | **AI & ML** | **Mobile & Web** | **Tech for Good** |
 |:---:|:---:|:---:|:---:|
 | Cryptography | Machine Learning | Cross-platform Apps | Open Source |
 | Secure Systems | Deep Learning | API Design | Community |
