@@ -58,7 +58,22 @@ class Christine:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="GitHub Streak" />
+  
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  </picture>
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAMATOVU-CHRISTINE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMATOVU-CHRISTINE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
 </div>
 
 <div align="center">
