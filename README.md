@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Animated Bouncy Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Halo,+It's+Christine" alt="Halo, It's Christine" />
+<!-- Profile Header -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Halo, It's Christine
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 </div>
 
