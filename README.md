@@ -59,10 +59,8 @@ class Christine:
 
 <div align="center">
   
-  <!-- Custom Stats Badges with Accurate Data -->
-  <img src="https://img.shields.io/badge/Total_Contributions-3,095-2ea44f?style=for-the-badge&logo=github" alt="Total Contributions" />
-  <img src="https://img.shields.io/badge/Current_Streak-1_day-ff6b6b?style=for-the-badge&logo=fire" alt="Current Streak" />
-  <img src="https://img.shields.io/badge/Longest_Streak-29_days-4c8eff?style=for-the-badge&logo=github" alt="Longest Streak" />
+  <!-- GitHub Streak Stats - Using Nirzak's Render deployment -->
+  <img width="60%" src="https://nirzak-streak-stats.onrender.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
   
 </div>
 
