@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Profile Header -->
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Halo, It's Christine
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Halo,+It's+Christine" alt="Halo, It's Christine" />
 
 </div>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## About Me
 
 ```python
 class Christine:
@@ -44,7 +40,7 @@ class Christine:
 <!-- Animated Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -59,7 +55,7 @@ class Christine:
 <!-- Animated Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> What I Do
+## What I Do
 
 <div align="center">
 
@@ -74,7 +70,7 @@ class Christine:
 <!-- Animated Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
+## Let's Connect
 
 <div align="center">
 
