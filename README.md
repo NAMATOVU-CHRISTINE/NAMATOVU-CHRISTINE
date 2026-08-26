@@ -59,8 +59,15 @@ class Christine:
 
 <div align="center">
   
-  <!-- GitHub Streak Stats - Using Nirzak's Render deployment -->
-  <img width="60%" src="https://nirzak-streak-stats.onrender.com?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <!-- Dynamic GitHub Streak Stats - Vercel -->
+  <img width="60%" src="https://github-readme-streak-stats-sigma-five.vercel.app?user=NAMATOVU-CHRISTINE&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak Stats" />
+  
+  <br/><br/>
+  
+  <!-- Accurate Longest Streak Badge -->
+  <a href="https://github.com/NAMATOVU-CHRISTINE">
+    <img src="https://img.shields.io/badge/🏆_Longest_Streak-29_days_(Apr_16_--_May_24)-FFD700?style=for-the-badge" alt="Longest Streak: 29 days" />
+  </a>
   
 </div>
 
