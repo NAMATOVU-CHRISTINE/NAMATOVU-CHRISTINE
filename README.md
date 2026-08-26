@@ -43,7 +43,11 @@ class Christine:
 ## GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NAMATOVU-CHRISTINE&theme=light" alt="GitHub Streak" />
+  
+  <img src="https://img.shields.io/badge/Total_Contributions-3,104-blue?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Current_Streak-3_days-orange?style=for-the-badge&logo=fire" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/Longest_Streak-29_days-green?style=for-the-badge&logo=star" alt="Longest Streak" />
+  
 </div>
 
 <!-- Animated Line -->
