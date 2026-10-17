@@ -2,6 +2,7 @@
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Halo%2C+It's+Christine;Welcome+to+my+profile " alt="Typing SVG" />
+[![committers.top badge](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE.svg)](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE)
 
 </div>
 
