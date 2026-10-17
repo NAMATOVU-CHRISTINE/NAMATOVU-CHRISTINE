@@ -86,9 +86,7 @@ class Christine:
 <a href="https://github.com/NAMATOVU-CHRISTINE?tab=repositories"> 
   <img src="https://img.shields.io/badge/GitHub-Check_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a>
-[![committers.top badge](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE.svg)](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE)
-</a>
+
 </div>
 
 <br/>
