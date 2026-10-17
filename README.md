@@ -2,8 +2,6 @@
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Halo%2C+It's+Christine;Welcome+to+my+profile " alt="Typing SVG" />
-[![committers.top badge](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE.svg)](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE)
-
 </div>
 
 <!-- Animated Line -->
@@ -85,10 +83,12 @@ class Christine:
 <a href="mailto:christinenamatovu972@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/NAMATOVU-CHRISTINE?tab=repositories">
+<a href="https://github.com/NAMATOVU-CHRISTINE?tab=repositories"> 
   <img src="https://img.shields.io/badge/GitHub-Check_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<a>
+[![committers.top badge](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE.svg)](https://user-badge.committers.top/uganda/NAMATOVU-CHRISTINE)
+</a>
 </div>
 
 <br/>
